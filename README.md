@@ -19,7 +19,7 @@ AIFFEL SeSAC
 
 
 ## Tech Art Team Piple Line
-![Tech Art Pipline drawio (1)](https://user-images.githubusercontent.com/90362869/150272607-22eb6f3b-455d-429b-ace0-c9e495dffc92.png)
+![Tech Art Pipline drawio](https://user-images.githubusercontent.com/90362869/150272793-d69b36ec-c746-410e-96c3-5e5a7502eb86.png)
 
 
 ## 참고자료
