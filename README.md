@@ -26,4 +26,4 @@ AIFFEL SeSAC
 *
 
 ## Member
-[김영현](https://github.com/kim1987), [윤세영](https://github.com/uni1023), [이상현](https://github.com/oddhyeon), [이호진](https://github.com/ghwlsdl), [최동현](https://github.com/donghyundavidchoi)
+[김수연](https://github.com/estela19), [김영현](https://github.com/kim1987), [윤세영](https://github.com/uni1023), [이상현](https://github.com/oddhyeon), [이호진](https://github.com/ghwlsdl), [최동현](https://github.com/donghyundavidchoi)
