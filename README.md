@@ -16,7 +16,7 @@ AIFFEL SeSAC
 * 2022.03.10 : 최종 발표회
 
 ## Tech Art Team Piple Line!
-[Uploading Tech Art Pipline.drawio.png…]()
+![Tech Art Pipline drawio](https://user-images.githubusercontent.com/90362869/150267102-37908bd7-07dd-41f2-a248-e49a1c6001a0.png)
 
 
 
