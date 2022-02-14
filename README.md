@@ -14,6 +14,7 @@ AIFFEL SeSAC
 *         20 : Pipline Gerneration, Trello Active, Mini-Hackathon-Report 초안 작성
 *         21 : 미니 해커톤 마무리 & 앞으로의 계획 정립
 * 2022.01.24 ~ : 3차 해커톤 Start
+* 2022.02.09 ~ 11 : **Crunch mode** 합숙 기간
 * 2022.02.17 : 중간 발표회 (진행상황 보고 & 피드백)
 * 2022.03.09 : 결과물 제출
 * 2022.03.10 : 최종 발표회
