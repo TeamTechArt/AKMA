@@ -14,7 +14,19 @@ AIFFEL SeSAC
 *         20 : Pipline Gerneration, Trello Active, Mini-Hackathon-Report 초안 작성
 *         21 : 미니 해커톤 마무리 & 앞으로의 계획 정립
 * 2022.01.24 ~ : 3차 해커톤 Start
+* 2022.01.25 : 해커톤 진행 워크샵 (at.동대입구 커피빈)
+* 2022.01.26 : Pipline 1차 수정
+* 2022.01.27 : 미팅 (at. 싹캠퍼스) (진행 현황 공유)
+* 2022.02.03 : 미팅 (at. 싹캠퍼스)
+* 2022.02.04 : 미팅 (at. 싹캠퍼스)
+* 2022.02.06 : GAN ~ StyleGAN3 논문 리뷰
 * 2022.02.09 ~ 11 : **Crunch mode** 합숙 기간
+*         09 : 음향에 따른 파형 평탄화 작업 완료, Audio-Reactive StyleGAN2 코드를 StyleGAN3 화 진행
+*         10 : Audio-Reactive StyleGAN2 코드를 StyleGAN3 화 완료
+*         11 : 위의 코드를 기반으로 영상 제작 Start
+* 2022.02.14 : Awesome-beach pkl 을 기반으로 영상 제작 start
+* 2022.02.15 : choi 알고리즘 수식 탄신일
+* 2022.02.16 : 중간 발표 준비
 * 2022.02.17 : 중간 발표회 (진행상황 보고 & 피드백)
 * 2022.03.09 : 결과물 제출
 * 2022.03.10 : 최종 발표회
