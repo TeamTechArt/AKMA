@@ -33,7 +33,11 @@ AIFFEL SeSAC
 
 
 ## Tech Art Team Piple Line
+
+### 초기 Pipline
 ![Tech Art 초기 Pipline drawio](https://user-images.githubusercontent.com/90362869/150274518-22b3e367-765b-43f4-94b8-c5dd6a85e6a6.png)
+
+### 중간발표 시기 Pipline
 ![Tech Art 중간발표 시기 Pipline drawio](https://user-images.githubusercontent.com/90362869/154292356-cf968c4f-e0f4-47e1-a8ec-0fd06088c636.jpeg)
 
 
