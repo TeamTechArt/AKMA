@@ -50,9 +50,9 @@ AIFFEL SeSAC
   - PyTorch invokes `nvcc` to compile our CUDA kernels.
   - Why is CUDA toolkit installation necessary?
     > The PyTorch package contains the required CUDA toolkit libraries needed to run PyTorch, so why is a separate CUDA toolkit installation required? Our models use custom CUDA kernels to implement operations such as efficient resampling of 2D images. PyTorch code invokes the CUDA compiler at run-time to compile these kernels on first-use. The tools and libraries required for this compilation are not bundled in PyTorch and thus a host CUDA toolkit installation is required.
-- ninja
+- Ninja
   - PyTorch uses [Ninja](https://ninja-build.org/) as its build system.
-- GCC 7 or later (Linux) compilers. Recommended GCC version depends on CUDA version, see for example CUDA 11.4 system requirements.
+- GCC 7 or later (Linux) compilers. Recommended GCC version depends on CUDA version, see for example [CUDA 11.6 system requirements](https://docs.nvidia.com/cuda/archive/11.6.0/index.html).
 - Python libraries: see [environment.yml]() for exact library dependencies. You can use the following commands with Miniconda3 to create and activate your StyleGAN3 Python environment:
   - `conda env create -f environment.yml`
   - `conda activate stylegan3`
