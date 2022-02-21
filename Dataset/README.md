@@ -11,7 +11,7 @@ We collected the data from the wave video on YouTube.
 - Author: TeamTechART 
 - Dataset: Wave-512
 - Resolution: 512x512
-- Config: pkl 생성 시 조건 값 T / R (pkl 파일 최신화에 따라 추가 업데이트 예정)
+- Config: T
 - Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 ### Wave-256
@@ -23,7 +23,7 @@ We collected the data from the wave video on YouTube.
 - Author: TeamTechART 
 - Dataset: Wave-256
 - Resolution: 256x256
-- Config: pkl 생성 시 조건 값 T / R (pkl 파일 최신화에 따라 추가 업데이트 예정)
+- Config: T
 - Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 ### Reference
