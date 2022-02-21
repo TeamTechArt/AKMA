@@ -16,8 +16,9 @@ We collected the data from the wave video on YouTube.
 
 ### Wave-256
 ---
-![256x256](https://user-images.githubusercontent.com/90362869/154901291-218f9fc1-b4d2-42ed-8c98-171b8382add8.jpeg)
+<img width="1020" alt="Style mixing example" src="https://user-images.githubusercontent.com/90362869/154905825-1b040e78-1d03-44d6-8aef-328027e27553.png">
 
+- [Style mixing example](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/Style%20mixing%20example.png), [interpolation video](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/interpolation%20video.mp4)
 - Name: Wave-256. 
 - Download URL: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
 - Author: TeamTechART 
