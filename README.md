@@ -41,8 +41,22 @@ AIFFEL SeSAC
 ![Tech Art 중간발표 시기 Pipline drawio](https://user-images.githubusercontent.com/90362869/154292356-cf968c4f-e0f4-47e1-a8ec-0fd06088c636.jpeg)
 
 
-## 참고자료
-*
+## Requirement
+---
+- We recommend Linux for performance and compatibility (Ubuntu = 20.04) 
+- We have done all testing and development using Tesla V100 and A100 GPUs. (at. Colab Pro)
+- 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
+- [CUDA toolkit 11.1](https://developer.nvidia.com/cuda-toolkit) or later.
+  - PyTorch invokes `nvcc` to compile our CUDA kernels.
+  - Why is CUDA toolkit installation necessary?
+    > The PyTorch package contains the required CUDA toolkit libraries needed to run PyTorch, so why is a separate CUDA toolkit installation required? Our models use custom CUDA kernels to implement operations such as efficient resampling of 2D images. PyTorch code invokes the CUDA compiler at run-time to compile these kernels on first-use. The tools and libraries required for this compilation are not bundled in PyTorch and thus a host CUDA toolkit installation is required.
+- ninja
+  - PyTorch uses [Ninja](https://ninja-build.org/) as its build system.
+- GCC 7 or later (Linux) compilers. Recommended GCC version depends on CUDA version, see for example CUDA 11.4 system requirements.
+- Python libraries: see [environment.yml]() for exact library dependencies. You can use the following commands with Miniconda3 to create and activate your StyleGAN3 Python environment:
+  - `conda env create -f environment.yml`
+  - `conda activate stylegan3`
+
 
 ## Member
 - 팀장 : [최동현](https://github.com/donghyundavidchoi)
