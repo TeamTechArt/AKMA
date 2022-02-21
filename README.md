@@ -53,7 +53,7 @@ AIFFEL SeSAC
 - Ninja
   - PyTorch uses [Ninja](https://ninja-build.org/) as its build system.
 - GCC 7 or later (Linux) compilers. Recommended GCC version depends on CUDA version, see for example [CUDA 11.6 system requirements](https://docs.nvidia.com/cuda/archive/11.6.0/index.html).
-- Python libraries: see [environment.yml]() for exact library dependencies. You can use the following commands with Miniconda3 to create and activate your StyleGAN3 Python environment:
+- Python libraries: see [environment.yml](https://github.com/TeamTechArt/HanGAN/blob/main/environment.yml) for exact library dependencies. You can use the following commands with Miniconda3 to create and activate your StyleGAN3 Python environment:
   - `conda env create -f environment.yml`
   - `conda activate stylegan3`
 
