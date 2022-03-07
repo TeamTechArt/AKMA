@@ -32,7 +32,8 @@ We collected the data from the wave video on YouTube.
 ## Pretrained StyleGAN3
 ---
 
-
+### AWESOME-BEACH
+---
 - Name: AWESOME-BEACH
 - Download URL: [AWESOME-BEACH](https://drive.google.com/file/d/1_Cneq6wuh2f8_rKES1rbuFT5wYTqpXwD/view?usp=sharing)
 - Author: TeamTechART 
@@ -40,6 +41,10 @@ We collected the data from the wave video on YouTube.
 - Resolution: 256x256
 - Config: T
 - Notes: trained 30.4 Mimgs, gamma=10, mapping layers=2
+
+### SAMCHEOK-WAVE
+---
+![SAMCHEOK-WAVE](https://user-images.githubusercontent.com/90362869/156956663-8a0b6702-19c2-43b3-ad94-156ab386a385.jpeg)
 
 - Name: SAMCHEOK-WAVE
 - Download URL: [SAMCHEOK-WAVE](https://drive.google.com/file/d/1IL8b5W0o4AoId8tv_4DZe3NUym3nu730/view?usp=sharing)
@@ -49,6 +54,10 @@ We collected the data from the wave video on YouTube.
 - Config: T
 - Notes: trained 2.1 Mimgs, gamma=32, mapping layers=4, dlr=0.0005
 
+### YOUTUBE-WAVE
+---
+![YOUTUBE-WAVE](https://user-images.githubusercontent.com/90362869/156956679-2ca0c89b-495c-4611-8226-b0255de7d5a4.jpg)
+
 - Name: YOUTUBE-WAVE
 - Download URL: [YOUTUBE-WAVE](https://drive.google.com/file/d/14oWnDEH3F4m1CUKnCkTIarG56cGUKCKA/view?usp=sharing)
 - Author: YOUTUBE
@@ -56,11 +65,6 @@ We collected the data from the wave video on YouTube.
 - Resolution: 512x512
 - Config: T
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
-
-
-
-
-
 
 ### Reference
 ---
