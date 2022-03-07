@@ -1,10 +1,10 @@
 # HanGAN Dataset
----
+
 We collected the data from the wave video on YouTube.
 
 
 ### AWESOME-BEACH
----
+
 <img width="955" alt="wave" src="https://user-images.githubusercontent.com/90362869/156961160-a884ac7a-3bb5-431e-a9a1-8c5df5f04faf.png">
 
 - Name: AWESOME-BEACH
@@ -16,7 +16,7 @@ We collected the data from the wave video on YouTube.
 - Notes: trained 30.4 Mimgs, gamma=10, mapping layers=2
 
 ### SAMCHEOK-WAVE
----
+
 ![SAMCHEOK-WAVE](https://user-images.githubusercontent.com/90362869/156956663-8a0b6702-19c2-43b3-ad94-156ab386a385.jpeg)
 
 - Name: SAMCHEOK-WAVE
@@ -28,7 +28,7 @@ We collected the data from the wave video on YouTube.
 - Notes: trained 2.1 Mimgs, gamma=32, mapping layers=4, dlr=0.0005
 
 ### YOUTUBE-WAVE
----
+
 ![YOUTUBE-WAVE](https://user-images.githubusercontent.com/90362869/156956679-2ca0c89b-495c-4611-8226-b0255de7d5a4.jpg)
 
 - Name: YOUTUBE-WAVE
@@ -40,11 +40,11 @@ We collected the data from the wave video on YouTube.
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
 
 ## Project Dataset
----
+
 This is a collection of image datasets we used.
 
 ### Wave-512
----
+
 <img width="1249" alt="스크린샷 2022-03-07 오후 12 11 12" src="https://user-images.githubusercontent.com/90362869/156961425-0e69e5a6-fcf8-4d1e-bd40-03c68ea57124.png">
 
 - Name: Wave-512. 
@@ -56,7 +56,7 @@ This is a collection of image datasets we used.
 - Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 ### Wave-256
----
+
 <img width="1020" alt="Style mixing example" src="https://user-images.githubusercontent.com/90362869/154905825-1b040e78-1d03-44d6-8aef-328027e27553.png">
 
 - [Style mixing example](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/Style%20mixing%20example.png), [interpolation video](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/interpolation%20video.mp4)
@@ -70,5 +70,5 @@ This is a collection of image datasets we used.
 
 
 ### Reference
----
+
 - [Awesome Pretrained StyleGAN3](https://github.com/justinpinkney/awesome-pretrained-stylegan3)
