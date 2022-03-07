@@ -1,6 +1,6 @@
 # HanGAN Dataset
 
-We collected the data from the wave video on YouTube.
+We collected the data from the wave video on YouTube & additional data have been collected in Samcheok, Gangwon Province.
 
 
 ### AWESOME-BEACH
