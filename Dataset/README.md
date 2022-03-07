@@ -7,7 +7,7 @@ We collected the data from the wave video on YouTube.
 [image] (추가 업데이트 예정)
 
 - Name: Wave-512. 
-- Download URL: [???]()
+- Download URL: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
 - Author: TeamTechART 
 - Dataset: Wave-512
 - Resolution: 512x512
@@ -27,13 +27,9 @@ We collected the data from the wave video on YouTube.
 - Config: T
 - Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
-
-
-## Pretrained StyleGAN3
----
-
 ### AWESOME-BEACH
 ---
+
 - Name: AWESOME-BEACH
 - Download URL: [AWESOME-BEACH](https://drive.google.com/file/d/1_Cneq6wuh2f8_rKES1rbuFT5wYTqpXwD/view?usp=sharing)
 - Author: TeamTechART 
@@ -65,6 +61,10 @@ We collected the data from the wave video on YouTube.
 - Resolution: 512x512
 - Config: T
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
+
+### [Awesome Pretrained StyleGAN3](https://github.com/justinpinkney/awesome-pretrained-stylegan3)
+---
+
 
 ### Reference
 ---
