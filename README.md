@@ -67,5 +67,5 @@ AIFFEL SeSAC Hackathon Project
   - `conda activate stylegan3`
 
 ## Reference
-[Stylegan3](https://github.com/NVlabs/stylegan3). 
-[StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
+- [Stylegan3](https://github.com/NVlabs/stylegan3)
+- [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
