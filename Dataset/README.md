@@ -39,6 +39,18 @@ We collected the data from the wave video on YouTube.
 - Config: T
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
 
+### YOUTUBE-WAVE-No.44
+
+![YOUTUBE-WAVE](https://user-images.githubusercontent.com/90362869/156956679-2ca0c89b-495c-4611-8226-b0255de7d5a4.jpg)
+
+- Name: YOUTUBE-WAVE
+- Download URL: [YOUTUBE-WAVE-No.44](https://drive.google.com/file/d/1G36Ia-i3yDuiMU0PShhcSa777A0d_BSW/view)
+- Author: YOUTUBE
+- Dataset: [YOUTUBE-WAVE-No.44](https://drive.google.com/drive/folders/1T2e-AOZxTEIGyA06ro7H3SU6Dg1SNH0z)
+- Resolution: 512x512
+- Config: T
+- Notes: trained 10 Mimgs, gamma=10, mapping layers=4
+
 ## Project Dataset
 
 This is a collection of image datasets we used.
@@ -48,12 +60,10 @@ This is a collection of image datasets we used.
 <img width="1249" alt="스크린샷 2022-03-07 오후 12 11 12" src="https://user-images.githubusercontent.com/90362869/156961425-0e69e5a6-fcf8-4d1e-bd40-03c68ea57124.png">
 
 - Name: Wave-512. 
-- Download URL: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
 - Author: TeamTechART 
-- Dataset: Wave-512
+- Dataset: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
 - Resolution: 512x512
 - Config: T
-- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 ### Wave-256
 
@@ -61,13 +71,10 @@ This is a collection of image datasets we used.
 
 - [Style mixing example](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/Style%20mixing%20example.png), [interpolation video](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/interpolation%20video.mp4)
 - Name: Wave-256. 
-- Download URL: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
 - Author: TeamTechART 
-- Dataset: Wave-256
+- Dataset: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
 - Resolution: 256x256
 - Config: T
-- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
-
 
 ### Reference
 
