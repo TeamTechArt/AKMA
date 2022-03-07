@@ -1,9 +1,9 @@
 # HanGAN
-AIFFEL SeSAC
+AIFFEL SeSAC Hackathon Project
 
 
 ## Introduction
-* 기간 : 2022.01.17 ~
+* Project Term : 2022.01.17 ~ 2022.03.10
 
 
 ## Project Timeline
@@ -28,7 +28,8 @@ AIFFEL SeSAC
 * 2022.02.15 : choi 알고리즘 수식 탄신일
 * 2022.02.16 : 중간 발표 준비
 * 2022.02.17 : 중간 발표회 (진행상황 보고 & 피드백)
-* 2022.03.09 : 결과물 제출
+* 2022.02.18 ~ 02.28 : GCP 사용, Encoder Control
+* 2022.03.08 : 결과물 제출
 * 2022.03.10 : 최종 발표회
 
 
