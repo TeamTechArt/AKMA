@@ -74,6 +74,14 @@ This is a collection of image datasets we used.
 - Dataset: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
 - Resolution: 256x256
 
+### GAN-Data-Choi
+
+<img width="1160" alt="GAN-Data-Choi" src="https://user-images.githubusercontent.com/90362869/156963537-d756a7fa-4a94-4bc2-ba3b-9abb4045aa83.png">
+
+- Name: GAN-DATA-CHOI
+- Author: TeamTechART 
+- Dataset: [GAN-DATA-CHOI](https://drive.google.com/drive/folders/157GRe0mhPDVBHdiGq7tpAq0fWPMNIKMI)
+- Resolution: 1024x1024
 
 ### Reference
 
