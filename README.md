@@ -51,7 +51,7 @@ AIFFEL SeSAC Hackathon Project
 
 
 ## Requirement
-`- We recommend Linux for performance and compatibility (Ubuntu = 20.04) 
+- We recommend Linux for performance and compatibility (Ubuntu = 20.04) 
 - We have done all testing and development using Tesla V100 and A100 GPUs. (at. Colab Pro)
 - 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
 - [CUDA toolkit 11.1](https://developer.nvidia.com/cuda-toolkit) or later.
@@ -63,8 +63,9 @@ AIFFEL SeSAC Hackathon Project
 - GCC 7 or later (Linux) compilers. Recommended GCC version depends on CUDA version, see for example [CUDA 11.6 system requirements](https://docs.nvidia.com/cuda/archive/11.6.0/index.html).
 - Python libraries: see [environment.yml](https://github.com/TeamTechArt/HanGAN/blob/main/environment.yml) for exact library dependencies. You can use the following commands with Miniconda3 to create and activate your StyleGAN3 Python environment:
   - `conda env create -f environment.yml`
-  - `conda activate stylegan3``
+  - `conda activate stylegan3`
 
 ## Reference
 - [Stylegan3](https://github.com/NVlabs/stylegan3)
 - [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
