@@ -12,7 +12,7 @@ AIFFEL SeSAC Hackathon Project
 
 ## Project Timeline
 * Project Term : 2022.01.17 ~ 2022.03.10
-* 
+
 * 2022.01.17 : 기획안 발표 / TechArt 팀 빌딩 (팀장 : 최동현 / 팀원 : 김영현, 윤세영, 이상현, 이호진)
 * 2022.01.18 : 기획서 작성
 * 2022.01.19 ~ 21 : 미니 해커톤 (모델 파이프 라인 설계 및 개발)
@@ -67,5 +67,5 @@ AIFFEL SeSAC Hackathon Project
   - `conda activate stylegan3`
 
 ## Reference
-[Stylegan3](https://github.com/NVlabs/stylegan3)
+[Stylegan3](https://github.com/NVlabs/stylegan3). 
 [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
