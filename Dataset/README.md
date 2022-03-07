@@ -39,7 +39,7 @@ We collected the data from the wave video on YouTube.
 - Config: T
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
 
-## Dataset
+## Project Dataset
 ---
 This is a collection of image datasets we used.
 
