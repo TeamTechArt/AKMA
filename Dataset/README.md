@@ -41,7 +41,7 @@ We collected the data from the wave video on YouTube.
 
 ### YOUTUBE-WAVE-No.44
 
-![KakaoTalk_Photo_2022-03-07-12-16-26](https://user-images.githubusercontent.com/90362869/156962273-d514d9c6-fd68-4f55-9492-887e0884d2bd.jpeg)
+![YOUTUBE-WAVE-No 44](https://user-images.githubusercontent.com/90362869/156962567-a0672c24-373f-4d47-aabc-8c89098e405a.jpeg)
 
 - Name: YOUTUBE-WAVE
 - Download URL: [YOUTUBE-WAVE-No.44](https://drive.google.com/file/d/1G36Ia-i3yDuiMU0PShhcSa777A0d_BSW/view)
