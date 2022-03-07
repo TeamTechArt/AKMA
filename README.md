@@ -1,4 +1,4 @@
-# HanGAN
+# AKMA
 AIFFEL SeSAC Hackathon Project
 
 
