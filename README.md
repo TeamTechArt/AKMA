@@ -2,11 +2,17 @@
 AIFFEL SeSAC Hackathon Project
 
 
-## Introduction
-* Project Term : 2022.01.17 ~ 2022.03.10
+## Member
+- 팀장 : [최동현](https://github.com/donghyundavidchoi)
+
+- 팀원 : [김영현](https://github.com/kim1987), [윤세영](https://github.com/uni1023), [이상현](https://github.com/oddhyeon), [이호진](https://github.com/ghwlsdl)
+
+- 사외이사 : [김수연](https://github.com/estela19)
 
 
 ## Project Timeline
+* Project Term : 2022.01.17 ~ 2022.03.10
+* 
 * 2022.01.17 : 기획안 발표 / TechArt 팀 빌딩 (팀장 : 최동현 / 팀원 : 김영현, 윤세영, 이상현, 이호진)
 * 2022.01.18 : 기획서 작성
 * 2022.01.19 ~ 21 : 미니 해커톤 (모델 파이프 라인 설계 및 개발)
@@ -28,7 +34,9 @@ AIFFEL SeSAC Hackathon Project
 * 2022.02.15 : choi 알고리즘 수식 탄신일
 * 2022.02.16 : 중간 발표 준비
 * 2022.02.17 : 중간 발표회 (진행상황 보고 & 피드백)
-* 2022.02.18 ~ 02.28 : GCP 사용, Encoder Control
+* 2022.02.18 ~ 02.28 : GCP 사용, Encoder Control, MLOps, BentoML
+* 2022.03.02 ~ 03.04 : 파도 데이터 수집 (at. Samcheok, Gangwon-do)
+* 2022.03.05 ~ 03.07 : 지금까지 해 온 것들 정리
 * 2022.03.08 : 결과물 제출
 * 2022.03.10 : 최종 발표회
 
@@ -61,10 +69,3 @@ AIFFEL SeSAC Hackathon Project
 ## Reference
 [Stylegan3](https://github.com/NVlabs/stylegan3)
 [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
-
-## Member
-- 팀장 : [최동현](https://github.com/donghyundavidchoi)
-
-- 팀원 : [김영현](https://github.com/kim1987), [윤세영](https://github.com/uni1023), [이상현](https://github.com/oddhyeon), [이호진](https://github.com/ghwlsdl)
-
-- 사외이사 : [김수연](https://github.com/estela19)
