@@ -41,7 +41,7 @@ We collected the data from the wave video on YouTube.
 
 ### YOUTUBE-WAVE-No.44
 
-![YOUTUBE-WAVE](https://user-images.githubusercontent.com/90362869/156956679-2ca0c89b-495c-4611-8226-b0255de7d5a4.jpg)
+![KakaoTalk_Photo_2022-03-07-12-16-26](https://user-images.githubusercontent.com/90362869/156962273-d514d9c6-fd68-4f55-9492-887e0884d2bd.jpeg)
 
 - Name: YOUTUBE-WAVE
 - Download URL: [YOUTUBE-WAVE-No.44](https://drive.google.com/file/d/1G36Ia-i3yDuiMU0PShhcSa777A0d_BSW/view)
@@ -63,7 +63,6 @@ This is a collection of image datasets we used.
 - Author: TeamTechART 
 - Dataset: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
 - Resolution: 512x512
-- Config: T
 
 ### Wave-256
 
@@ -74,7 +73,7 @@ This is a collection of image datasets we used.
 - Author: TeamTechART 
 - Dataset: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
 - Resolution: 256x256
-- Config: T
+
 
 ### Reference
 
