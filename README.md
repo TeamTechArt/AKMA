@@ -51,7 +51,6 @@ AIFFEL SeSAC Hackathon Project
 
 
 ## Requirement
----
 - We recommend Linux for performance and compatibility (Ubuntu = 20.04) 
 - We have done all testing and development using Tesla V100 and A100 GPUs. (at. Colab Pro)
 - 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
