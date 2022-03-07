@@ -2,33 +2,10 @@
 ---
 We collected the data from the wave video on YouTube.
 
-### Wave-512
----
-[image] (추가 업데이트 예정)
-
-- Name: Wave-512. 
-- Download URL: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
-- Author: TeamTechART 
-- Dataset: Wave-512
-- Resolution: 512x512
-- Config: T
-- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
-
-### Wave-256
----
-<img width="1020" alt="Style mixing example" src="https://user-images.githubusercontent.com/90362869/154905825-1b040e78-1d03-44d6-8aef-328027e27553.png">
-
-- [Style mixing example](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/Style%20mixing%20example.png), [interpolation video](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/interpolation%20video.mp4)
-- Name: Wave-256. 
-- Download URL: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
-- Author: TeamTechART 
-- Dataset: Wave-256
-- Resolution: 256x256
-- Config: T
-- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 ### AWESOME-BEACH
 ---
+<img width="955" alt="wave" src="https://user-images.githubusercontent.com/90362869/156961160-a884ac7a-3bb5-431e-a9a1-8c5df5f04faf.png">
 
 - Name: AWESOME-BEACH
 - Download URL: [AWESOME-BEACH](https://drive.google.com/file/d/1_Cneq6wuh2f8_rKES1rbuFT5wYTqpXwD/view?usp=sharing)
@@ -62,8 +39,34 @@ We collected the data from the wave video on YouTube.
 - Config: T
 - Notes: trained 33 Mimgs, gamma=10, mapping layers=4
 
-### [Awesome Pretrained StyleGAN3](https://github.com/justinpinkney/awesome-pretrained-stylegan3)
+## Dataset
 ---
+This is a collection of image datasets we used.
+
+### Wave-512
+---
+<img width="1249" alt="스크린샷 2022-03-07 오후 12 11 12" src="https://user-images.githubusercontent.com/90362869/156961425-0e69e5a6-fcf8-4d1e-bd40-03c68ea57124.png">
+
+- Name: Wave-512. 
+- Download URL: [Wave-512](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L?usp=sharing)
+- Author: TeamTechART 
+- Dataset: Wave-512
+- Resolution: 512x512
+- Config: T
+- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
+
+### Wave-256
+---
+<img width="1020" alt="Style mixing example" src="https://user-images.githubusercontent.com/90362869/154905825-1b040e78-1d03-44d6-8aef-328027e27553.png">
+
+- [Style mixing example](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/Style%20mixing%20example.png), [interpolation video](https://github.com/TeamTechArt/HanGAN/blob/main/Dataset/content/wave-256/interpolation%20video.mp4)
+- Name: Wave-256. 
+- Download URL: [Wave-256](https://drive.google.com/file/d/1-A1BV83geagAPAcsm8OH__a3Adr8rzAi/view)
+- Author: TeamTechART 
+- Dataset: Wave-256
+- Resolution: 256x256
+- Config: T
+- Notes: 학습 된 pkl 결과값 (pkl 파일 최신화에 따라 추가 업데이트 예정)
 
 
 ### Reference
