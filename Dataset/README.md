@@ -32,7 +32,7 @@ We collected the data from the wave video on YouTube & additional data have been
 ![YOUTUBE-WAVE](https://user-images.githubusercontent.com/90362869/156956679-2ca0c89b-495c-4611-8226-b0255de7d5a4.jpg)
 
 - Name : YOUTUBE-WAVE
-- Download URL : [YOUTUBE-WAVE](https://drive.google.com/file/d/14oWnDEH3F4m1CUKnCkTIarG56cGUKCKA/view?usp=sharing)
+- Download URL : [YOUTUBE-WAVE](https://drive.google.com/file/d/1g36Eiyqx-YnkXdRKqQyKgzUENwqlMxuV/view?usp=sharing)
 - Author : TeamTechART
 - Dataset : [YOUTUBE-WAVE](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L)
 - Dataset_Author : YOUTUBE
