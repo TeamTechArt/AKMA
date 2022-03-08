@@ -25,7 +25,7 @@ We collected the data from the wave video on YouTube & additional data have been
 - Dataset : [GAN-Data-Choi](https://drive.google.com/drive/folders/157GRe0mhPDVBHdiGq7tpAq0fWPMNIKMI)
 - Resolution : 1024x1024
 - Config : T
-- Notes : trained 2.1 Mimgs, gamma=32, mapping layers=4, dlr=0.0005
+- Notes : trained 2.1 Mimgs, gamma=32, mapping layers=3, dlr=0.001
 
 ### SAMCHEOK-WAVE
 
