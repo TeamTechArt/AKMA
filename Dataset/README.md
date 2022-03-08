@@ -15,6 +15,18 @@ We collected the data from the wave video on YouTube & additional data have been
 - Config : T
 - Notes : trained 30.4 Mimgs, gamma=10, mapping layers=2
 
+### EAST-SEA
+
+<img width="975" alt="EAST-SEA" src="https://user-images.githubusercontent.com/90362869/157170081-446ad657-a842-40a8-8b65-7c9e232d6b7a.png">
+
+- Name : EAST-SEA
+- Download URL : [EAST-SEA](https://drive.google.com/file/d/1SscfF-3Zy9_IPvU6DsBXvmT_isvcoWe4/view?usp=sharing)
+- Author : TeamTechART 
+- Dataset : [GAN-Data-Choi](https://drive.google.com/drive/folders/157GRe0mhPDVBHdiGq7tpAq0fWPMNIKMI)
+- Resolution : 1024x1024
+- Config : T
+- Notes : trained 2.1 Mimgs, gamma=32, mapping layers=4, dlr=0.0005
+
 ### SAMCHEOK-WAVE
 
 ![SAMCHEOK-WAVE](https://user-images.githubusercontent.com/90362869/156956663-8a0b6702-19c2-43b3-ad94-156ab386a385.jpeg)
