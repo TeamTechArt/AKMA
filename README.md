@@ -1,4 +1,4 @@
-# AKMA (Audio Kinetic Media Art) Project Overview
+# AKMA : Audio Kinetic Media Art
 
 AIFFEL X SeSAC Hackathon Project
 
