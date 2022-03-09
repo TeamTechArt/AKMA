@@ -76,11 +76,12 @@ Users can adjust the following factors to produce target media art.
 
 ## Changes-from-the-reference
 
-### StlyeGAN2 audio reactive
+### Changes from StlyeGAN2 audio reactive
 
 	StyleGAN3 applied.  
 
-	More adjustment functions have provided for waveform, the guidance for audio reactive function.  
+	More adjustment functions have been provided for waveform, the guidance for audio reactive function.
+  
 
 	Interpolate two videos by the waveform, not only two images.  
 
@@ -91,11 +92,12 @@ Users can adjust the following factors to produce target media art.
 
 	By achieving Alias-Free using signal processing theory, it solved texture-sticking problem of StyleGAN2, producing higher quality images.  
 
-	This shows significantly more improvement in video generation.  
+	This shows significantly better video generation.  
 
-### Real-ESRGAN-Video-Batch-Process
+### Changes from Real-ESRGAN-Video-Batch-Process
 
-	The reference does not keep original audio file. Now it keeps original audio file and merge it to enhanced video.
+	The reference does not keep the original audio file. Now it keeps the original audio file and merges it to enhanced video.
+
 
 ### Why Real-ESRGAN?
 
