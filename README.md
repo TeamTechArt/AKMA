@@ -12,7 +12,7 @@ AIFFEL X SeSAC Hackathon Project
 - [AKMA-Walkthrough](#AKMA-Walkthrough)
 - [Changes-from-the-reference](#Changes-from-the-reference)
 - [Project-Timeline](#Project-Timeline)
-- [Custom-model](#Custom-model)
+- [Custom-Model](#Custom-Model)
   - [East-Sea](#East-Sea)
 - [Tech-Stack](#Tech-Stack)
 - [Sample-Result](#Sample-Result)
@@ -115,7 +115,7 @@ Users can adjust following factors to produce target media art.
 If you are curious about the project timeline, please click the link above.
 
 
-## Custom-model
+## Custom-Model
 
 
 ### East-Sea
