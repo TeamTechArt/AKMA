@@ -12,7 +12,7 @@ AIFFEL X SeSAC Hackathon Project
   - [Data Acquisition](#Workflow)
   - [Architecture](#Architecture)
   - [Model](#Model)
-- [Tech Stack] (#Tech Stack)
+- [Tech Stack](#Tech Stack)
 - [Repositories](#Repositories)
 - [Demo](#Demo)
 - [Reference](#Reference)
