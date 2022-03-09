@@ -25,14 +25,13 @@ AIFFEL X SeSAC Hackathon Project
 
 ## Team-Introduction
 
-| Name                                           |   Role   | Email | Focus |
-| :--------------------------------------------- | :------: | ----: | ----: |
-| [최동현](https://github.com/donghyundavidchoi) |   팀장   |     ? |     ? |
-| [김영현](https://github.com/kim1987)           |   팀원   |     ? |     ? |
-| [윤세영](https://github.com/uni1023)           |   팀원   |     ? |     ? |
-| [이상현](https://github.com/oddhyeon)          |   팀원   |     ? |     ? |
-| [이호진](https://github.com/ghwlsdl)           |   팀원   |     ? |     ? |
-| [김수연](https://github.com/estela19)          | 사외이사 |     ? |     ? |
+| Name | Role | Email | Focus |
+|:----------|:----------:|----------:|----------:|
+| [최동현](https://github.com/donghyundavidchoi) | 팀장 | david0302@naver.com | ? |
+| [김영현](https://github.com/kim1987) | 팀원 | overevo489@gmail.com | ? |
+| [윤세영](https://github.com/uni1023) | 팀원 | yoonsy1023@gmail.com | ? |
+| [이상현](https://github.com/oddhyeon) | 팀원 | oughideal@gmail.com | ? |
+| [이호진](https://github.com/ghwlsdl) | 팀원 | hojinlee93@gmail.com | ? |
 
 ## Project-Introduction
 
