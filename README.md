@@ -56,7 +56,7 @@ Users can adjust the following factors to produce target media art.
 ## AKMA-Walkthrough
 
 
-![KakaoTalk_Photo_2022-03-09-17-58-39](https://user-images.githubusercontent.com/90362869/157407738-0761f3c2-f413-4d62-a2c5-5dfec4a90c0a.png)
+![AKMA Pipeline](https://user-images.githubusercontent.com/90362869/157410524-5e9c5cfb-0810-4b55-9344-b3b972664b1f.png)
 
 
 	1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
@@ -105,6 +105,7 @@ Users can adjust the following factors to produce target media art.
 
 ## [Project-Timeline](https://github.com/TeamTechArt/AKMA/blob/main/Readme_Project-Timeline.md)
 
+If you are curious about the project timeline, please click the link above.
 
 ## Workflow
 
