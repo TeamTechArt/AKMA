@@ -111,6 +111,7 @@ If you are curious about the project timeline, please click the link above.
 
 
 ### East-Sea
+- 이미지 넣고 간단한 소개를 추가할 예정
 
 
 ## Tech-Stack
