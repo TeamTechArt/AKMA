@@ -19,20 +19,20 @@ Project Term : 2022.01.17 ~ 2022.03.10
 [Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
 
 
-2022.01.17 : 기획안 발표 / TechArt 팀 빌딩 (팀장 : 최동현 / 팀원 : 김영현, 윤세영, 이상현, 이호진)
-2022.01.18 : 기획서 작성
-2022.01.19 : 프로젝트 현실 가능성 점검 및 파이프라인 수정
-2022.01.19 : 미니 해커톤 Start, StyleGAN2 및 프로젝트에 필요한 연구 시작
-2022.01.20 : Pipline Gerneration, Trello Active, Mini-Hackathon-Report 초안 작성
-2022.01.21 : 미니 해커톤 마무리 & 앞으로의 계획 정립
-2022.01.23 : Audio Reactive Interpolation GAN 예시 코드 구현 완료 후 회의
+2022.01.17 : 기획안 발표 / TechArt 팀 빌딩 (팀장 : 최동현 / 팀원 : 김영현, 윤세영, 이상현, 이호진)  
+2022.01.18 : 기획서 작성  
+2022.01.19 : 프로젝트 현실 가능성 점검 및 파이프라인 수정  
+2022.01.19 : 미니 해커톤 Start, StyleGAN2 및 프로젝트에 필요한 연구 시작  
+2022.01.20 : Pipline Gerneration, Trello Active, Mini-Hackathon-Report 초안 작성  
+2022.01.21 : 미니 해커톤 마무리 & 앞으로의 계획 정립  
+2022.01.23 : Audio Reactive Interpolation GAN 예시 코드 구현 완료 후 회의  
 
 
 [Week 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
 
 
-2022.01.24 : 3차 해커톤 Start
-2022.01.25 : 개발 환경 토의
+2022.01.24 : 3차 해커톤 Start  
+2022.01.25 : 개발 환경 토의  
 2022.01.26 : 멘토링 진행 후 프로젝트 방향성 및 로드맵 수정
 2022.01.27 : StyleGAN2 개선 사항 조사
 2022.01.28 : StyleGAN3 적용, GCP 연동, 학습 데이터 관리
