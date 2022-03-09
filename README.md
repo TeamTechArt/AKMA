@@ -13,8 +13,7 @@ AIFFEL X SeSAC Hackathon Project
   - [Architecture](#Architecture)
   - [Model](#Model)
 - [Tech-Stack](#Tech-Stack)
-- [Repositories](#Repositories)
-- [Demo](#Demo)
+- [Sample](#Sample)
 - [Reference](#Reference)
 
 ## Overview
