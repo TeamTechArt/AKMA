@@ -32,9 +32,9 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | ? |
 | [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | ? |
-| [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | ? |
 | [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | ? |
 | [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ? |
+| [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | Data Acquisition |
 
 
 ## AKMA-Introduction
