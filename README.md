@@ -7,8 +7,8 @@ AIFFEL X SeSAC Hackathon Project
 - [Overview](#Overview)
   - [Team-Introduction](#Team-Introduction)
   - [AKMA-Introduction](#AKMA-Introduction)
-  - [Factors in AKMA](#Factors in AKMA)
-  - [AKMA Walkthrough](#AKMA Walkthrough)
+  - [Factors-in-AKMA](#Factors-in-AKMA)
+  - [AKMA-Walkthrough](#AKMA-Walkthrough)
   - [Project-Timeline](#Project-Timeline)
 - [Workflow](#Workflow)
   - [Data-Acquisition](#Data-Acquisition)
@@ -38,7 +38,7 @@ AIFFEL X SeSAC Hackathon Project
 
 Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean, is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
 
-## Factors in AKMA
+## Factors-in-AKMA
 
 Users can adjust the following factors to produce target media art.
 
@@ -51,7 +51,7 @@ Users can adjust the following factors to produce target media art.
   - seeds_top_num : number of seeds corresponds to the largest volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
   - seeds_bottom_num : number of seeds corresponds to the 0 volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
 
-## AKMA Walkthrough
+## AKMA-Walkthrough
 
 
 1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
