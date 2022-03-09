@@ -1,13 +1,37 @@
 # AKMA (Audio Kinetic Media Art)
 AIFFEL SeSAC Hackathon Project
 
+## Table of Contents
+- [Overview]()
+  - [Team Introduction]()
+  - [Project Introduction]()
+  - [Goal]()
+  - [Project Timeline]()
+- [Workflow]()
+  - [Data Acquisition]()
+  - [Architecture]()
+  - [Model]()
+- [Tech Stack]()
+- [Repositories]()
+- [Demo]()
 
-## Member
-- 팀장 : [최동현](https://github.com/donghyundavidchoi)
 
-- 팀원 : [김영현](https://github.com/kim1987), [윤세영](https://github.com/uni1023), [이상현](https://github.com/oddhyeon), [이호진](https://github.com/ghwlsdl)
+## Team Introduction
 
-- 사외이사 : [김수연](https://github.com/estela19)
+| Name | Role | Email | Focus |
+|:----------|:----------:|----------:|----------:|
+| [최동현](https://github.com/donghyundavidchoi) | 팀장 | ? | ? |
+| [김영현](https://github.com/kim1987) | 팀원 | ? | ? |
+| [윤세영](https://github.com/uni1023) | 팀원 | ? | ? |
+| [이상현](https://github.com/oddhyeon) | 팀원 | ? | ? |
+| [이호진](https://github.com/ghwlsdl) | 팀원 | ? | ? |
+| [김수연](https://github.com/estela19) | 사외이사 | ? | ? |
+
+
+## Project Introduction
+
+
+## Goal
 
 
 ## Project Timeline
