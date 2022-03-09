@@ -56,6 +56,9 @@ Users can adjust the following factors to produce target media art.
 ## AKMA-Walkthrough
 
 
+![KakaoTalk_Photo_2022-03-09-17-58-39](https://user-images.githubusercontent.com/90362869/157407738-0761f3c2-f413-4d62-a2c5-5dfec4a90c0a.png)
+
+
 	1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
 
 
@@ -93,21 +96,6 @@ Users can adjust the following factors to produce target media art.
 ![Real-ESRGAN](https://user-images.githubusercontent.com/67223441/157398801-5922a4d4-c06e-4946-adf2-fbad0ff95245.png)
 
 
-## Tech Art Team Piple Line
-
-
-## 초기 Pipline
-
-
-![Tech Art 초기 Pipline drawio](https://user-images.githubusercontent.com/90362869/150274518-22b3e367-765b-43f4-94b8-c5dd6a85e6a6.png)
-
-
-## 중간발표 시기 Pipline
-
-
-![Tech Art 중간발표 시기 Pipline drawio](https://user-images.githubusercontent.com/90362869/154292356-cf968c4f-e0f4-47e1-a8ec-0fd06088c636.jpeg)
-
-
 ## Tech-Stack
 
 
@@ -133,3 +121,4 @@ Users can adjust the following factors to produce target media art.
 - [Stylegan3](https://github.com/NVlabs/stylegan3)
 - [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [Real-ESRGAN-Video-Batch-Process](https://github.com/GeeveGeorge/Real-ESRGAN-Video-Batch-Process/tree/main)
