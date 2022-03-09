@@ -20,7 +20,7 @@ AIFFEL X SeSAC Hackathon Project
 ## Overview
 2022.01.17 ~ 2022.03.10 약 2 달간 진행한 AKMA (Audio Kinetic Media Art)
 
-### Team-Introduction
+## Team-Introduction
 
 | Name | Role | Email | Focus |
 |:----------|:----------:|----------:|----------:|
@@ -32,11 +32,11 @@ AIFFEL X SeSAC Hackathon Project
 | [김수연](https://github.com/estela19) | 사외이사 | ? | ? |
 
 
-### Project-Introduction
+## Project-Introduction
 
 - 공사 중 입니다.
 
-### Project-Timeline
+## Project-Timeline
 
 - 공사 중 입니다.
 
@@ -73,24 +73,24 @@ AIFFEL X SeSAC Hackathon Project
 ## Workflow
 
 
-### Data-Acquisition
+## Data-Acquisition
 
 - 공사 중 입니다.
 
 
-### Architecture
+## Architecture
 
 
-### Model
+## Model
 
 
 
 ## Tech Art Team Piple Line
 
-### 초기 Pipline
+## 초기 Pipline
 ![Tech Art 초기 Pipline drawio](https://user-images.githubusercontent.com/90362869/150274518-22b3e367-765b-43f4-94b8-c5dd6a85e6a6.png)
 
-### 중간발표 시기 Pipline
+## 중간발표 시기 Pipline
 ![Tech Art 중간발표 시기 Pipline drawio](https://user-images.githubusercontent.com/90362869/154292356-cf968c4f-e0f4-47e1-a8ec-0fd06088c636.jpeg)
 
 ## Tech-Stack
