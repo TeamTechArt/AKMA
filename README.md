@@ -36,7 +36,9 @@ AIFFEL X SeSAC Hackathon Project
 
 ## AKMA-Introduction
 
-Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean, is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
+Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean.
+
+AKMA is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
 
 ## Factors-in-AKMA
 
