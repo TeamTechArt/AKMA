@@ -23,7 +23,7 @@ AIFFEL X SeSAC Hackathon Project
 
 2022.01.17 ~ 2022.03.10 약 2 달간 진행한 AKMA (Audio Kinetic Media Art) 프로젝트의 Overview와 각 리포지토리 설명, 노션의 다큐멘테이션을 정리해보았습니다.
 
-**모두의연구소 AIFFEL** 에서 개인 과제 **_StyleGAN3 Based Audio Reactive Media Art Generator Model_**를 주제로 프로젝트를 진행하였습니다.
+**모두의연구소 AIFFEL** 에서 개인 과제 **StyleGAN3 Based Audio Reactive Media Art Generator Model**를 주제로 프로젝트를 진행하였습니다.
 
 ## Team-Introduction
 
