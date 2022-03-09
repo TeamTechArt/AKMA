@@ -12,8 +12,8 @@ AIFFEL X SeSAC Hackathon Project
   - [AKMA-Walkthrough](#AKMA-Walkthrough)
   - [Changes-from-the-reference](#Changes-from-the-reference)
   - [Project-Timeline](#Project-Timeline)
-- [Custom-model:East-Sea](#Custom-model:East-Sea)
-  - [Model-Introduction](#Model-Introduction)
+- [Custom-model](#Custom-model)
+  - [East-Sea](#East-Sea)
 - [Tech-Stack](#Tech-Stack)
 - [Sample](#Sample)
 - [Reference](#Reference)
@@ -107,10 +107,10 @@ If you are curious about the project timeline, please click the link above.
 
 
 
-## Custom-model:East-Sea
+## Custom-model
 
 
-### Model-Introduction
+### East-Sea
 
 
 ## Tech-Stack
