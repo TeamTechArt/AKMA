@@ -30,10 +30,10 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 
 | Name | Position | Email | Role |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | ? |
-| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | ? |
-| [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | ? |
-| [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ? |
+| [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | Overall Managerment, Data Acquisition, Modifying the model code, Presentation |
+| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | BentoML, Encoder, Modifying the model code  |
+| [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | GCP Setting, Model train |
+| [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | Paper research, GitHub management, Record |
 | [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | Data Acquisition |
 
 
@@ -118,8 +118,12 @@ If you are curious about the project timeline, please click the link above.
 ## Custom-Model
 
 
-### East-Sea
-- 이미지 넣고 간단한 소개를 추가할 예정
+### [East-Sea](https://drive.google.com/file/d/1SscfF-3Zy9_IPvU6DsBXvmT_isvcoWe4/view)
+
+<img width="1079" alt="East-Sea Data" src="https://user-images.githubusercontent.com/90362869/157467318-74311ade-d022-4067-8272-a04fa42ba303.png">
+
+
+- A model generated from the acquired data in the East Sea.
 
 
 ## Tech-Stack
