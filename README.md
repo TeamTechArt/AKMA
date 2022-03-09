@@ -124,8 +124,9 @@ Project Term : 2022.01.17 ~ 2022.03.10
   - Google Cloud Platform
 
 ## Sample
- - https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing
- - https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing
+ - [landscape-paradox](https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing)
+ - [wikiart-paradox](https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing)
+ - [EAST-SEA](https://drive.google.com/file/d/1ncnCM0SLFSmsjungRs4aEvL8tv0x_uZU/view?usp=sharing)
 
 
 ## Reference
