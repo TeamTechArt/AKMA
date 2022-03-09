@@ -94,6 +94,9 @@ Project Term : 2022.01.17 ~ 2022.03.10
 ## Architecture
 
 ## Model
+![styelgan3](https://user-images.githubusercontent.com/67223441/157396919-04b48c92-6787-4610-aacb-6794c6bb4f12.png)
+
+<img width="887" alt="KakaoTalk_20220309_165723069_02" src="https://user-images.githubusercontent.com/67223441/157397748-4006da1e-2e49-484c-bdf3-235f34835623.png">
 
 ## Tech Art Team Piple Line
 
