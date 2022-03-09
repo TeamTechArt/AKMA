@@ -26,7 +26,7 @@ AIFFEL X SeSAC Hackathon Project
 ## Team-Introduction
 
 | Name | Role | Email | Focus |
-|:----------|:----------:|----------:|----------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|
 | [최동현](https://github.com/donghyundavidchoi) | 팀장 | david0302@naver.com | ? |
 | [김영현](https://github.com/kim1987) | 팀원 | overevo489@gmail.com | ? |
 | [윤세영](https://github.com/uni1023) | 팀원 | yoonsy1023@gmail.com | ? |
@@ -43,7 +43,7 @@ AIFFEL X SeSAC Hackathon Project
 Project Term : 2022.01.17 ~ 2022.03.10
 
 | Weekly | Term | Content | Detail |
-|:----------|:----------:|----------:|----------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|
 | Week 1 : | 2022.01.17 ~ 2022.01.23 | 기획안 발표, 팀 빌딩, 기획서 작성, 미니해커톤 | ? |
 | Week 2 : | 2022.01.24 ~ 2022.01.30 | ? | ? |
 | Week 3 : | 2022.01.31 ~ 2022.02.06 | ? | ? |
@@ -121,7 +121,7 @@ Project Term : 2022.01.17 ~ 2022.03.10
 ## Repositories
 
 | Repository | Details |
-| :--------- | :-----: |
+|:-------------:|:-------------:|
 | [?]()      |    ?    |
 | [?]()      |    ?    |
 | [?]()      |    ?    |
