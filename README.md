@@ -44,12 +44,12 @@ Users can adjust the following factors to produce target media art.
 
 	- Input Audio : Must be wav file (24bit wav file is not acceptable)
 	- Input Network_pkl : StyleGAN3 model containing contents that the user wants for media art
-  - Fps : frame per second of the result
+  	- Fps : frame per second of the result
 	- window length : It mainly adjust the flatness of the waveform of input audio, affect how sensitively the media art reacts to the volume of the input audio. Must be an odd number.
-  - Polyorder : The order of the polynomial used to fit the samples. Must be smaller than window length. 
-  - Compression : The larger you give a number, the more it compresses the waveform of the input audio exponentially, reducing the variance of the waveform, making the result less reactive to the input audio. The default value is 1. Must be larger than 0. Recommend Value between 0.5 and 2.
-  - seeds_top_num : number of seeds corresponds to the largest volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
-  - seeds_bottom_num : number of seeds corresponds to the 0 volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
+ 	- Polyorder : The order of the polynomial used to fit the samples. Must be smaller than window length. 
+  	- Compression : The larger you give a number, the more it compresses the waveform of the input audio exponentially, reducing the variance of the waveform, making the result less reactive to the input audio. The default value is 1. Must be larger than 0. Recommend Value between 0.5 and 2.
+  	- seeds_top_num : number of seeds corresponds to the largest volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
+  	- seeds_bottom_num : number of seeds corresponds to the 0 volume of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Must be larger than 4.
 
 ## AKMA-Walkthrough
 
