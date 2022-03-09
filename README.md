@@ -15,7 +15,7 @@ AIFFEL X SeSAC Hackathon Project
 - [Custom-model](#Custom-model)
   - [East-Sea](#East-Sea)
 - [Tech-Stack](#Tech-Stack)
-- [Sample](#Sample)
+- [Sample-Result](#Sample-Result)
 - [Reference](#Reference)
 
 
@@ -141,7 +141,7 @@ If you are curious about the project timeline, please click the link above.
   - [Google Cloud Platform](https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-bkws-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_514666343206-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+~+GCP+~+General_+Core+Brand-KWID_43700060620875343-aud-970366092687:kwd-26415313501-userloc_1009871&utm_term=KW_google%20cloud%20platform-ST_google+cloud+platform&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMAduyI7HaEG-UsISeqSyI5c90KsorWSA22E2QyR1DATrsZh9PadL1BoCaJoQAvD_BwE&gclsrc=aw.ds)
 
 
-## Sample
+## Sample-Result
  - [Landscape-paradox](https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing)
  - [Wikiart-paradox](https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing)
  - [EAST-SEA](https://drive.google.com/file/d/1ncnCM0SLFSmsjungRs4aEvL8tv0x_uZU/view?usp=sharing)
