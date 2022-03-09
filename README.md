@@ -127,7 +127,7 @@ By using sinc filter, Real-ESRGAN reduces ringing and overshooting, improving im
 
 
 - Model
-  - PyTorch
+  - [PyTorch](https://pytorch.org/)
   - [Stylegan3](https://github.com/NVlabs/stylegan3)
   - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - Custom Data
@@ -139,8 +139,8 @@ By using sinc filter, Real-ESRGAN reduces ringing and overshooting, improving im
 
 
 ## Sample
- - [landscape-paradox](https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing)
- - [wikiart-paradox](https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing)
+ - [Landscape-paradox](https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing)
+ - [Wikiart-paradox](https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing)
  - [EAST-SEA](https://drive.google.com/file/d/1ncnCM0SLFSmsjungRs4aEvL8tv0x_uZU/view?usp=sharing)
 
 
