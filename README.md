@@ -12,10 +12,8 @@ AIFFEL X SeSAC Hackathon Project
   - [AKMA-Walkthrough](#AKMA-Walkthrough)
   - [Changes-from-the-reference](#Changes-from-the-reference)
   - [Project-Timeline](#Project-Timeline)
-- [Workflow](#Workflow)
-  - [Data-Acquisition](#Data-Acquisition)
-  - [Architecture](#Architecture)
-  - [Model](#Model)
+- [Custom-model:East-Sea](#Custom-model:East-Sea)
+  - [Model-Introduction](#Model-Introduction)
 - [Tech-Stack](#Tech-Stack)
 - [Sample](#Sample)
 - [Reference](#Reference)
@@ -107,23 +105,12 @@ Users can adjust the following factors to produce target media art.
 
 If you are curious about the project timeline, please click the link above.
 
-## Workflow
 
 
-### Data-Acquisition
-
-- 공사 중 입니다.
+## Custom-model:East-Sea
 
 
-## Model Architecture
-
-
-### StyleGAN3
-![styelgan3](https://user-images.githubusercontent.com/67223441/157396919-04b48c92-6787-4610-aacb-6794c6bb4f12.png)
-
-
-### Real-ESRGAN
-![Real-ESRGAN](https://user-images.githubusercontent.com/67223441/157398801-5922a4d4-c06e-4946-adf2-fbad0ff95245.png)
+### Model-Introduction
 
 
 ## Tech-Stack
