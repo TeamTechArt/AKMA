@@ -81,7 +81,6 @@ Users can adjust the following factors to produce target media art.
 	StyleGAN3 applied.  
 
 	More adjustment functions have been provided for waveform, the guidance for audio reactive function.
-  
 
 	Interpolate two videos by the waveform, not only two images.  
 
