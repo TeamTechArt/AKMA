@@ -30,7 +30,7 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 
 | Name | Position | Email | Role |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| [최동현](https://github.com/donghyundavidchoi) | Manager | david0302@naver.com | ? |
+| [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | ? |
 | [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | ? |
 | [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | ? |
 | [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | ? |
@@ -40,15 +40,13 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 ## AKMA-Introduction
 
 
-Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean.
-
-AKMA is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
+Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean, is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
 
 
 ## Factors-in-AKMA
 
 
-Users can adjust the following factors to produce target media art.
+Users can adjust following factors to produce target media art.
 
 	- Input Audio : Must be wav file (24bit wav file is not acceptable)
 	- Input Network_pkl : StyleGAN3 model containing contents that the user wants for media art
