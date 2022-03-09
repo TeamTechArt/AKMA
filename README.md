@@ -9,6 +9,7 @@ AIFFEL X SeSAC Hackathon Project
   - [AKMA-Introduction](#AKMA-Introduction)
   - [Factors-in-AKMA](#Factors-in-AKMA)
   - [AKMA-Walkthrough](#AKMA-Walkthrough)
+  - [Changes-from-the-reference](#Changes-from-the-reference)
   - [Project-Timeline](#Project-Timeline)
 - [Workflow](#Workflow)
   - [Data-Acquisition](#Data-Acquisition)
@@ -73,6 +74,33 @@ Users can adjust the following factors to produce target media art.
 
 	5. Start generation and wait till the process ends.
 
+
+## Changes-from-the-reference
+
+### StlyeGAN2 audio reactive
+
+StyleGAN3 applied.  
+
+More adjustment functions have provided for waveform, the guidance for audio reactive function.  
+
+Interpolate two videos by the waveform, not only two images.  
+
+Able to adjust video speed by adding more seeds.  
+
+
+### Why StlyeGAN3?
+
+By achieving Alias-Free using signal processing theory, it solved texture-sticking problem of StyleGAN2, producing higher quality images.  
+
+This shows significantly more improvement in video generation.  
+
+### Real-ESRGAN-Video-Batch-Process
+
+The reference does not keep original audio file. Now it keeps original audio file and merge it to enhanced video.
+
+### Why Real-ESRGAN?
+
+By using sinc filter, Real-ESRGAN reduces ringing and overshooting, improving image quality.
 
 ## [Project-Timeline](https://github.com/TeamTechArt/AKMA/blob/main/Readme_Project-Timeline.md)
 
