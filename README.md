@@ -6,6 +6,7 @@ AIFFEL X SeSAC Hackathon Project
 
 - [Overview](#Overview)
   - [Team-Introduction](#Team-Introduction)
+  - [Team-Member](#Team-Member)
   - [AKMA-Introduction](#AKMA-Introduction)
   - [Factors-in-AKMA](#Factors-in-AKMA)
   - [AKMA-Walkthrough](#AKMA-Walkthrough)
@@ -19,21 +20,19 @@ AIFFEL X SeSAC Hackathon Project
 - [Sample](#Sample)
 - [Reference](#Reference)
 
-## Overview
-
-2022.01.17 ~ 2022.03.10 약 2 달간 진행한 AKMA (Audio Kinetic Media Art) 프로젝트의 Overview와 각 리포지토리 설명, 노션의 다큐멘테이션을 정리해보았습니다.
-
-**모두의연구소 AIFFEL** 에서 개인 과제 **"StyleGAN3 Based Audio Reactive Media Art Generator Model"**를 주제로 프로젝트를 진행하였습니다.
-
 ## Team-Introduction
 
-| Name | Role | Email | Focus |
+Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in Korean, is the media art generation solution based on StlyeGAN3 that produces a media art reacting actively to the volume of input audio.
+
+## Team-Member
+
+| Name | Position | Email | Role |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| [최동현](https://github.com/donghyundavidchoi) | 팀장 | david0302@naver.com | ? |
-| [김영현](https://github.com/kim1987) | 팀원 | overevo489@gmail.com | ? |
-| [윤세영](https://github.com/uni1023) | 팀원 | yoonsy1023@gmail.com | ? |
-| [이상현](https://github.com/oddhyeon) | 팀원 | roughideal@gmail.com | ? |
-| [이호진](https://github.com/ghwlsdl) | 팀원 | hojinlee93@gmail.com | ? |
+| [최동현](https://github.com/donghyundavidchoi) | Manager | david0302@naver.com | ? |
+| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | ? |
+| [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | ? |
+| [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | ? |
+| [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ? |
 
 ## AKMA-Introduction
 
