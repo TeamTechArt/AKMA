@@ -4,18 +4,18 @@ AIFFEL SeSAC Hackathon Project
 
 ## Table of Contents
 
-- [Overview]()
-  - [Team Introduction]()
-  - [Project Introduction]()
-  - [Project Timeline]()
-- [Workflow]()
-  - [Data Acquisition]()
-  - [Architecture]()
-  - [Model]()
-- [Tech Stack]()
-- [Repositories]()
-- [Demo]()
-- [Reference]()
+- [Overview]
+  - [Team Introduction]
+  - [Project Introduction]
+  - [Project Timeline]
+- [Workflow]
+  - [Data Acquisition]
+  - [Architecture]
+  - [Model]
+- [Tech Stack]
+- [Repositories]
+- [Demo]
+- [Reference]
 
 ## Overview
 
