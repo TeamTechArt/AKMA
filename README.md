@@ -78,28 +78,29 @@ Users can adjust the following factors to produce target media art.
 
 ### StlyeGAN2 audio reactive
 
-StyleGAN3 applied.  
+	StyleGAN3 applied.  
 
-More adjustment functions have provided for waveform, the guidance for audio reactive function.  
+	More adjustment functions have provided for waveform, the guidance for audio reactive function.  
 
-Interpolate two videos by the waveform, not only two images.  
+	Interpolate two videos by the waveform, not only two images.  
 
-Able to adjust video speed by adding more seeds.  
+	Able to adjust video speed by adding more seeds.  
 
 
 ### Why StlyeGAN3?
 
-By achieving Alias-Free using signal processing theory, it solved texture-sticking problem of StyleGAN2, producing higher quality images.  
+	By achieving Alias-Free using signal processing theory, it solved texture-sticking problem of StyleGAN2, producing higher quality images.  
 
-This shows significantly more improvement in video generation.  
+	This shows significantly more improvement in video generation.  
 
 ### Real-ESRGAN-Video-Batch-Process
 
-The reference does not keep original audio file. Now it keeps original audio file and merge it to enhanced video.
+	The reference does not keep original audio file. Now it keeps original audio file and merge it to enhanced video.
 
 ### Why Real-ESRGAN?
 
-By using sinc filter, Real-ESRGAN reduces ringing and overshooting, improving image quality.
+	By using sinc filter, Real-ESRGAN reduces ringing and overshooting, improving image quality.
+
 
 ## [Project-Timeline](https://github.com/TeamTechArt/AKMA/blob/main/Readme_Project-Timeline.md)
 
