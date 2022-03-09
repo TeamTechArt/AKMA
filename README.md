@@ -124,9 +124,11 @@ Project Term : 2022.01.17 ~ 2022.03.10
   - Google Cloud Platform
 
 ## Sample
+ - ![Landscape-paradox](https://drive.google.com/file/d/1dX7UPuy-rlaeYYTrlXPJFFV4FssCj7-N/view?usp=sharing)
+ - ![wikiart-paradox](https://drive.google.com/file/d/1fGUIIfBadJuCWPwkMxHawxT8wfl1iNUJ/view?usp=sharing)
+
 
 ## Reference
-
 - [Stylegan3](https://github.com/NVlabs/stylegan3)
 - [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
