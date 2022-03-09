@@ -30,7 +30,7 @@ AIFFEL X SeSAC Hackathon Project
 | [최동현](https://github.com/donghyundavidchoi) | 팀장 | david0302@naver.com | ? |
 | [김영현](https://github.com/kim1987) | 팀원 | overevo489@gmail.com | ? |
 | [윤세영](https://github.com/uni1023) | 팀원 | yoonsy1023@gmail.com | ? |
-| [이상현](https://github.com/oddhyeon) | 팀원 | oughideal@gmail.com | ? |
+| [이상현](https://github.com/oddhyeon) | 팀원 | roughideal@gmail.com | ? |
 | [이호진](https://github.com/ghwlsdl) | 팀원 | hojinlee93@gmail.com | ? |
 
 ## Project-Introduction
