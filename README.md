@@ -123,7 +123,7 @@ If you are curious about the project timeline, please click the link above.
 <img width="1079" alt="East-Sea Data" src="https://user-images.githubusercontent.com/90362869/157467318-74311ade-d022-4067-8272-a04fa42ba303.png">
 
 
-- The model traiend with image data from the East Sea.
+- The model trained with image data from the East Sea.
 
 
 ## Tech-Stack
