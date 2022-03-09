@@ -54,19 +54,19 @@ Users can adjust the following factors to produce target media art.
 ## AKMA-Walkthrough
 
 
-1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
+	1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
 
 
-2. Adjust fps, window length, polyorder, compression. You can check the waveform image which will be the guidance for audio reactive function. Adjust those factors until you get a desirable waveform for your media art.
+	2. Adjust fps, window length, polyorder, compression. You can check the waveform image which will be the guidance for audio reactive function. Adjust those factors until you get a desirable waveform for your media art.
 
 
-3. Input StyleGAN3 network pkl file.
+	3. Input StyleGAN3 network pkl file.
 
 
-4. Adjust the number of seeds for the top and bottom of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Usually, I recommend you to give more numbers for the top, so the video gets more active when the volume gets larger.
+	4. Adjust the number of seeds for the top and bottom of the waveform. The more you give the number, the model produces more images in the same duration, making the speed of the video faster. Usually, I recommend you to give more numbers for the top, so the video gets more active when the volume gets larger.
 
 
-5. Start generation and wait till the process ends.
+	5. Start generation and wait till the process ends.
 
 
 ## [Project-Timeline](https://github.com/TeamTechArt/AKMA/blob/main/Readme_Project-Timeline.md)
