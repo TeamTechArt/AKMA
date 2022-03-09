@@ -1,24 +1,24 @@
-# AKMA (Audio Kinetic Media Art)
+# AKMA (Audio Kinetic Media Art) Project Overview
 
-AIFFEL SeSAC Hackathon Project
+AIFFEL X SeSAC Hackathon Project
 
 ## Table of Contents
 
-- [Overview](# Overview)
-  - [Team Introduction](# Team Introduction)
-  - [Project Introduction](# Project Introduction)
-  - [Project Timeline](# Project Timeline)
-- [Workflow](# Workflow)
-  - [Data Acquisition](# Workflow)
-  - [Architecture](# Architecture)
-  - [Model](# Model)
-- [Tech Stack] (# Tech Stack)
-- [Repositories](# Repositories)
-- [Demo](# Demo)
-- [Reference](# Reference)
+- [Overview](#Overview)
+  - [Team Introduction](#Team Introduction)
+  - [Project Introduction](#Project Introduction)
+  - [Project Timeline](#Project Timeline)
+- [Workflow](#Workflow)
+  - [Data Acquisition](#Workflow)
+  - [Architecture](#Architecture)
+  - [Model](#Model)
+- [Tech Stack] (#Tech Stack)
+- [Repositories](#Repositories)
+- [Demo](#Demo)
+- [Reference](#Reference)
 
 ## Overview
-
+2022.01.17 ~ 2022.03.10 약 2 달간 진행한 AKMA (Audio Kinetic Media Art)
 
 ### Team Introduction
 
