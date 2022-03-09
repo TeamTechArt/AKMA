@@ -18,22 +18,21 @@ AIFFEL X SeSAC Hackathon Project
 - [Reference](#Reference)
 
 ## Overview
+
 2022.01.17 ~ 2022.03.10 약 2 달간 진행한 AKMA (Audio Kinetic Media Art) 프로젝트의 Overview와 각 리포지토리 설명, 노션의 다큐멘테이션을 정리해보았습니다.
 
-**모두의연구소 AIFFEL** 에서 개인 과제 ***StyleGAN3 Based Audio Reactive Media Art Generator Model***를 주제로 프로젝트를 진행하였습니다. 
- 
+**모두의연구소 AIFFEL** 에서 개인 과제 **_StyleGAN3 Based Audio Reactive Media Art Generator Model_**를 주제로 프로젝트를 진행하였습니다.
 
 ## Team-Introduction
 
-| Name | Role | Email | Focus |
-|:----------|:----------:|----------:|----------:|
-| [최동현](https://github.com/donghyundavidchoi) | 팀장 | ? | ? |
-| [김영현](https://github.com/kim1987) | 팀원 | ? | ? |
-| [윤세영](https://github.com/uni1023) | 팀원 | ? | ? |
-| [이상현](https://github.com/oddhyeon) | 팀원 | ? | ? |
-| [이호진](https://github.com/ghwlsdl) | 팀원 | ? | ? |
-| [김수연](https://github.com/estela19) | 사외이사 | ? | ? |
-
+| Name                                           |   Role   | Email | Focus |
+| :--------------------------------------------- | :------: | ----: | ----: |
+| [최동현](https://github.com/donghyundavidchoi) |   팀장   |     ? |     ? |
+| [김영현](https://github.com/kim1987)           |   팀원   |     ? |     ? |
+| [윤세영](https://github.com/uni1023)           |   팀원   |     ? |     ? |
+| [이상현](https://github.com/oddhyeon)          |   팀원   |     ? |     ? |
+| [이호진](https://github.com/ghwlsdl)           |   팀원   |     ? |     ? |
+| [김수연](https://github.com/estela19)          | 사외이사 |     ? |     ? |
 
 ## Project-Introduction
 
@@ -72,52 +71,54 @@ AIFFEL X SeSAC Hackathon Project
 * 2022.03.08 : 결과물 제출
 * 2022.03.10 : 최종 발표회
 
-
 ## Workflow
-
 
 ## Data-Acquisition
 
 - 공사 중 입니다.
 
-
 ## Architecture
 
-
 ## Model
-
-
 
 ## Tech Art Team Piple Line
 
 ## 초기 Pipline
+
 ![Tech Art 초기 Pipline drawio](https://user-images.githubusercontent.com/90362869/150274518-22b3e367-765b-43f4-94b8-c5dd6a85e6a6.png)
 
 ## 중간발표 시기 Pipline
+
 ![Tech Art 중간발표 시기 Pipline drawio](https://user-images.githubusercontent.com/90362869/154292356-cf968c4f-e0f4-47e1-a8ec-0fd06088c636.jpeg)
 
 ## Tech-Stack
+
 - Model
   - PyTorch
-  - Google Cloud Platform
+  - [Stylegan3](https://github.com/NVlabs/stylegan3)
+  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- Custom Data
+  - [YOUTUBE-WAVE](https://drive.google.com/drive/folders/1197NN3gqxi2mEQ5do1Lmp4UQIq-SfO9L)
+  - [EAST-SEA](https://drive.google.com/file/d/1SscfF-3Zy9_IPvU6DsBXvmT_isvcoWe4/view?usp=sharing)
 - Serving
   - BentoML
-
+  - Google Cloud Platform
 
 ## Repositories
+
 | Repository | Details |
-|:----------|:----------:|
-| [?]() | ? |
-| [?]() | ? |
-| [?]() | ? |
-| [?]() | ? |
-| [?]() | ? |
-| [?]() | ? |
+| :--------- | :-----: |
+| [?]()      |    ?    |
+| [?]()      |    ?    |
+| [?]()      |    ?    |
+| [?]()      |    ?    |
+| [?]()      |    ?    |
+| [?]()      |    ?    |
 
 ## Demo
 
-
 ## Reference
+
 - [Stylegan3](https://github.com/NVlabs/stylegan3)
 - [StyleGAN2 Reactive Audio](https://github.com/dvschultz/ai/blob/master/StyleGAN2_AudioReactive.ipynb)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
