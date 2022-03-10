@@ -33,7 +33,7 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 | [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | ML Research, Data Acquisition, Modifying the model code |
 | [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | Model Serving, Modeling, Modifying the model code |
 | [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | Server Engineering, Modeling, Modifying the model code |
-| [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ML Research, Version Control, document management | 
+| [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ML Research, Version Control, Document management | 
 | [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | Data Acquisition |
 
 
