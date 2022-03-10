@@ -31,8 +31,8 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 | Name | Position | Email | Role |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | Project Management, Data Acquisition, Modifying the model code, Presentation |
-| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | BentoML, Encoder, Modifying the model code  |
-| [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | GCP Setting, Model train |
+| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | BentoML, Encoder, Modifying the model code |
+| [이상현](https://github.com/oddhyeon) | Team Member | roughideal@gmail.com | Server Engineering, Modeling |
 | [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | Paper research, GitHub management, Record |
 | [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | Data Acquisition |
 
