@@ -31,8 +31,8 @@ Audio Kinetic Media Art, shortly AKMA, which pronounces the same as the devil in
 | Name | Position | Email | Role |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | [최동현](https://github.com/donghyundavidchoi) | Project Manager | david0302@naver.com | Project Management, Model Framework Development, ML Research, Model Optimization, Model Automation, Data Acquisition |
-| [이상현](https://github.com/oddhyeon) | Technology Manager | roughideal@gmail.com | ML Research, Server Engineering, Model Version Management, StyleGAN3 Model Training, Model Automation |
-| [김영현](https://github.com/kim1987) | Team Member | overevo489@gmail.com | ML Research, StyleGAN Encoder Training, Model Serving, Tech Adamin, Modifying the model code, Model Automation |
+| [이상현](https://github.com/oddhyeon) | Technology Manager | roughideal@gmail.com | Model Management, StyleGAN3 Model Training, Server Engineering, ML Research,  Model Automation |
+| [김영현](https://github.com/kim1987) | Lead Programmer | overevo489@gmail.com | Version Control, StyleGAN3 Encoder Training, Model Serving, ML Research, Model Automation |
 | [이호진](https://github.com/ghwlsdl) | Team Member | hojinlee93@gmail.com | ML Research, Model QA, Documentation | 
 | [윤세영](https://github.com/uni1023) | Team Member | yoonsy1023@gmail.com | Data Acquisition |
 
