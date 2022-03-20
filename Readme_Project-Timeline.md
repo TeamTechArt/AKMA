@@ -6,16 +6,15 @@ Project Term : 2022.01.17 ~ 2022.03.10
 
 | Weekly | Term |
 |:-------------:|:-------------:|
-| [Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.17 ~ 2022.01.23 |
-| [Week 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.24 ~ 2022.01.30 |
+| [Week 1, 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.17 ~ 2022.01.30 |
 | [Week 3](https://docs.google.com/document/d/12blD-0AYbR917EyU0eqzjwcrdGEc-IBg/edit) | 2022.01.31 ~ 2022.02.06 |
 | [Week 4](https://docs.google.com/document/d/1r2XZUikyqr8e6djEAmRalf3wspBpIVNs/edit) | 2022.02.07 ~ 2022.02.13 |
 | [Week 5](https://docs.google.com/document/d/1PV7hbAy6IOGLIKQShbDCIP_3UkIdfdUi/edit) | 2022.02.14 ~ 2022.02.20 |
 | [Week 6](https://docs.google.com/document/d/12pFwsTISAFAB7DiFl9fcUOaD0HEYVZTU/edit) | 2022.02.21 ~ 2022.02.27 |
-| [Week 7, Week 8](https://docs.google.com/document/d/15K9M6NnTfhsox24zbQaX6Itd7WslGdq-/edit) | 2022.02.28 ~ 2022.03.10 |
+| [Week 7, 8](https://docs.google.com/document/d/15K9M6NnTfhsox24zbQaX6Itd7WslGdq-/edit) | 2022.02.28 ~ 2022.03.10 |
 
 
-[Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
+[Week 1, 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
 
 
 2022.01.17 : 기획안 발표 / TechArt 팀 빌딩 (팀장 : 최동현 / 팀원 : 김영현, 윤세영, 이상현, 이호진)  
@@ -25,11 +24,6 @@ Project Term : 2022.01.17 ~ 2022.03.10
 2022.01.20 : Pipline Gerneration, Trello Active, Mini-Hackathon-Report 초안 작성  
 2022.01.21 : 미니 해커톤 마무리 & 앞으로의 계획 정립  
 2022.01.23 : Audio Reactive Interpolation GAN 예시 코드 구현 완료 후 회의  
-
-
-[Week 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
-
-
 2022.01.24 : 3차 해커톤 Start  
 2022.01.25 : 개발 환경 토의  
 2022.01.26 : 멘토링 진행 후 프로젝트 방향성 및 로드맵 수정  
