@@ -4,16 +4,15 @@
 Project Term : 2022.01.17 ~ 2022.03.10
 
 
-| Weekly | Term | Detail |
-|:-------------:|:-------------:|:-------------:|
-| [Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.17 ~ 2022.01.23 | ? |
-| [Week 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.24 ~ 2022.01.30 | ? |
-| [Week 3](https://docs.google.com/document/d/12blD-0AYbR917EyU0eqzjwcrdGEc-IBg/edit) | 2022.01.31 ~ 2022.02.06 | ? |
-| [Week 4](https://docs.google.com/document/d/1r2XZUikyqr8e6djEAmRalf3wspBpIVNs/edit) | 2022.02.07 ~ 2022.02.13 | ? |
-| [Week 5](https://docs.google.com/document/d/1PV7hbAy6IOGLIKQShbDCIP_3UkIdfdUi/edit) | 2022.02.14 ~ 2022.02.20 | ? |
-| [Week 6](https://docs.google.com/document/d/12pFwsTISAFAB7DiFl9fcUOaD0HEYVZTU/edit) | 2022.02.21 ~ 2022.02.27 | ? |
-| [Week 7]() | 2022.02.28 ~ 2022.03.06 | ? |
-| [Week 8]() | 2022.03.07 ~ 2022.03.10 | ? |
+| Weekly | Term |
+|:-------------:|:-------------:|
+| [Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.17 ~ 2022.01.23 |
+| [Week 2](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit) | 2022.01.24 ~ 2022.01.30 |
+| [Week 3](https://docs.google.com/document/d/12blD-0AYbR917EyU0eqzjwcrdGEc-IBg/edit) | 2022.01.31 ~ 2022.02.06 |
+| [Week 4](https://docs.google.com/document/d/1r2XZUikyqr8e6djEAmRalf3wspBpIVNs/edit) | 2022.02.07 ~ 2022.02.13 |
+| [Week 5](https://docs.google.com/document/d/1PV7hbAy6IOGLIKQShbDCIP_3UkIdfdUi/edit) | 2022.02.14 ~ 2022.02.20 |
+| [Week 6](https://docs.google.com/document/d/12pFwsTISAFAB7DiFl9fcUOaD0HEYVZTU/edit) | 2022.02.21 ~ 2022.02.27 |
+| [Week 7, Week 8](https://docs.google.com/document/d/15K9M6NnTfhsox24zbQaX6Itd7WslGdq-/edit) | 2022.02.28 ~ 2022.03.10 |
 
 
 [Week 1](https://docs.google.com/document/d/1QArPcymEzMwDRNF3TDB-OdShjUMhWx-o/edit)
@@ -79,18 +78,13 @@ Project Term : 2022.01.17 ~ 2022.03.10
 2022.02.25 : StyleCLIP 적용을 통한 타겟 이미지 생성 기능 구현을 위한 인코더 학습 관련 멘토링 진행  
 
 
-[Week 7]()
+[Week 7, Week 8](https://docs.google.com/document/d/15K9M6NnTfhsox24zbQaX6Itd7WslGdq-/edit)
 
 
 2022.02.28 : 파도 데이터 수집 스케줄 조정  
 2022.03.01 : 삼일절  
 2022.03.02 ~ 03.04 : 파도 데이터 수집 (at. Samcheok, Gangwon-do)  
 2022.03.05 ~ 03.06 : GCP로 수집해 온 데이터를 GCP로 학습 진행, 지금까지 해 온 것들 정리  
-
-
-[Week 8]()
-
-
 2022.03.07 : GCP로 수집해 온 데이터를 GCP로 추가 학습 진행, 발표 자료 준비  
 2022.03.08 : 결과물 제출  
 2022.03.09 : 대한민국 제20대 대통령 선거  
