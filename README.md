@@ -146,9 +146,9 @@ If you are curious about the project timeline, please click the link above.
 
 
 ## Sample-Result
- - [AKMA+awesome_landscape+Real-ESRGAN+PARADOX](https://drive.google.com/file/d/1aC_8DXQlyONneVSbDrVMEZbdjpK2HN-B/view?usp=sharing)
- - [AKMA+awesome_wikiart+PARADOX](https://drive.google.com/file/d/1ndY4QOl2qTbexOyHMHbDoNXd2_tn58_n/view?usp=sharing)
- - [AKMA+EAST-SEA](https://drive.google.com/file/d/1IkOaGp9CW5ORQO-ZVeb_aHLMnx7SXLfS/view?usp=sharing)
+ - [AKMA+awesome_landscape+Real-ESRGAN+PARADOX](https://youtu.be/tZN3QWIbHN4)
+ - [AKMA+awesome_wikiart+PARADOX](https://youtu.be/6ZiN-S_SdgI)
+ - [AKMA+EAST-SEA](https://youtu.be/KyupK_utxYc)
 
 
 ## Reference
