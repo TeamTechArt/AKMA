@@ -61,7 +61,7 @@ Users can adjust following factors to produce target media art.
 ## AKMA-Walkthrough
 
 
-![AKMA Pipeline](https://user-images.githubusercontent.com/90362869/157410524-5e9c5cfb-0810-4b55-9344-b3b972664b1f.png)
+![AKMA Pipeline]([https://user-images.githubusercontent.com/90362869/157410524-5e9c5cfb-0810-4b55-9344-b3b972664b1f.png](https://user-images.githubusercontent.com/89892032/191466666-8dfc32c3-39d2-4306-82da-ac95e8401e71.png))
 
 
 	1. Input audio file. It must be wav file. 24bit wav file is not acceptable.
